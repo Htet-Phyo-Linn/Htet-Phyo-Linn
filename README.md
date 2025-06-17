@@ -45,8 +45,8 @@
 
 ### 📫 Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)]https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htetphyolin642@gmail.com)](mailto:htetphyolin642@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HtetPhyoLinn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail Badge](https://img.shields.io/badge/-htetphyolin642@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htetphyolin642@gmail.com)](mailto:htetphyolin642@gmail.com)
 <!-- Add more badges as needed -->
 
 ---
