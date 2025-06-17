@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README Template -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Htet+Phyo+Linn!;Welcome+to+my+GitHub+profile!;I+love+coding+and+learning+new+things!&center=true&size=27" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Htet+Phyo+Linn!; Welcome+to+my+GitHub+profile!; I+love+coding+and+learning+new+things!&center=true&size=27" />
 </p>
 
 <p align="center">
