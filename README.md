@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Modern GitHub Profile README Template -->
 
-<!--
-**Htet-Phyo-Linn/Htet-Phyo-Linn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Htet+Phyo+Linn!;Welcome+to+my+GitHub+profile!;I+love+coding+and+learning+new+things!&center=true&size=27" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Htet-Phyo-Linn?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Htet-Phyo-Linn&style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me
+
+- 🔭 I’m currently working on: **Your Current Project**
+- 🌱 I’m currently learning: **Your Current Learning**
+- 👯 I’m looking to collaborate on: **Open Source/Personal Projects**
+- 💬 Ask me about: **Web Development, Python, etc.**
+- 📫 How to reach me: **[Your Email]**
+- ⚡ Fun fact: **A fun fact about you!**
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <!-- Add more icons as needed -->
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Phyo-Linn&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail Badge](https://img.shields.io/badge/-YourEmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-YourTwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter)](https://twitter.com/your-twitter)
+<!-- Add more badges as needed -->
+
+---
+
+<p align="center">
+  <img src="https://github.com/Htet-Phyo-Linn/Htet-Phyo-Linn/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
