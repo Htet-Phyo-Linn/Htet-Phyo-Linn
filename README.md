@@ -13,12 +13,12 @@
 
 ### 👋 About Me
 
-- 🔭 I’m currently working on: **Your Current Project**
-- 🌱 I’m currently learning: **Your Current Learning**
+- 🔭 I’m currently working on: **Many Projects**
+- 🌱 I’m currently learning: **Laravel, Reactive Native**
 - 👯 I’m looking to collaborate on: **Open Source/Personal Projects**
 - 💬 Ask me about: **Web Development, Python, etc.**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **A fun fact about you!**
+- 📫 How to reach me: **htetphyolin642@gmail.com**
+- ⚡ Fun fact: **Writing Tools**
 
 ---
 
