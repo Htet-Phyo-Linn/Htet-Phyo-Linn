@@ -38,8 +38,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Htet-Phyo-Linn&theme=tokyonight&hide_border=true" width="400"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Htet-Phyo-Linn&theme=tokyo-night&bg_color=0d1117&color=ec4899&line=38bdf8&point=22d3ee&hide_border=true" width="90%"/>
-
 </div>
 
 ---
