@@ -91,8 +91,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Htet-Phyo-Linn&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Htet-Phyo-Linn&theme=tokyonight&hide_border=true" width="400" height="600"/>
 </div>
 
 ---
