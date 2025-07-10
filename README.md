@@ -24,12 +24,67 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Stacks I Use
 
+### MERN Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,html,css,tailwind,git,github,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
+</p>
+<p align="center">
+  <b>MongoDB • Express.js • React • Node.js</b>
 </p>
 
+### LAMP/LEMP Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,php,laravel,mysql&perline=4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" style="vertical-align:middle; margin-left:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" style="vertical-align:middle; margin-left:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB" style="vertical-align:middle; margin-left:8px;" />
+</p>
+<p align="center">
+  <b>Linux • Apache/Nginx • MySQL/MariaDB • PHP (Laravel)</b>
+</p>
+
+### Python Web Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mysql&perline=5" />
+</p>
+<p align="center">
+  <b>Python (Flask/Django) • PostgreSQL/MySQL</b>
+</p>
+
+### Java Full Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres,html,css,js,tailwind&perline=7" />
+</p>
+<p align="center">
+  <b>Java • MySQL/Postgres • HTML • CSS • JavaScript • Tailwind CSS</b>
+</p>
+
+### JAM Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind&perline=5" />
+</p>
+<p align="center">
+  <b>JavaScript • APIs • Markup (React, HTML, CSS, Tailwind CSS)</b>
+</p>
+
+### Mobile Cross-Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react&perline=2" />
+</p>
+<p align="center">
+  <b>Flutter • React Native</b>
+</p>
+
+### DevOps / Cloud / Containerization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws&perline=5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" alt="DigitalOcean" style="vertical-align:middle; margin-left:8px;" />
+</p>
+<p align="center">
+  <b>Docker • Git • GitHub • Linux • AWS • DigitalOcean</b>
+</p>
 ---
 
 ## 📈 My GitHub Stats
