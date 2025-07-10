@@ -1,53 +1,64 @@
-<!-- Modern GitHub Profile README Template -->
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/109867841?v=4" width="120" style="border-radius:50%" alt="Htet Phyo Linn Avatar"/>
+
+# 👋 Hi, I'm <span style="color:#ec4899;">Htet Phyo Linn</span>!
+
+<a href="mailto:htetphyolinndeveloper@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Htet-Phyo-Linn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🚀 <b>Developer | Innovator | Lifelong Learner</b> <br/>
+💡 Building cool projects & exploring new tech
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,I'm Htet+Phyo+Linn!;Welcome+to+my+GitHub+profile!;I+love+coding+and+learning+new+things!&center=true&size=27" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Htet-Phyo-Linn?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Htet-Phyo-Linn&style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,html,css,tailwind,git,github,linux&perline=8" />
 </p>
 
 ---
 
-### 👋 About Me
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on: **Many Projects**
-- 🌱 I’m currently learning: **Laravel, Reactive Native**
-- 👯 I’m looking to collaborate on: **Open Source/Personal Projects**
-- 💬 Ask me about: **Web Development, Python, etc.**
-- 📫 How to reach me: **htetphyolin642@gmail.com**
-- ⚡ Fun fact: **Writing Tools**
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Htet-Phyo-Linn&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Htet-Phyo-Linn&theme=tokyo-night&bg_color=0d1117&color=ec4899&line=38bdf8&point=22d3ee&hide_border=true" width="90%"/>
 
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <!-- Add more icons as needed -->
-</p>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Htet-Phyo-Linn&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Phyo-Linn&layout=compact&theme=radical" height="170"/>
-</p>
+- 🌱 I’m always learning new things
+- 🗂️ Browse my [repositories](https://github.com/Htet-Phyo-Linn?tab=repositories)
+- ✨ Love to collaborate & build open source
+- 📨 Contact me: [htetphyolinndeveloper@gmail.com](mailto:htetphyolin46@gmail.com), [![Linkedin Badge](https://img.shields.io/badge/-HtetPhyoLinn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-
-### 📫 Connect With Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-HtetPhyoLinn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/htet-phyo-lin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail Badge](https://img.shields.io/badge/-htetphyolin642@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htetphyolin642@gmail.com)](mailto:htetphyolin642@gmail.com)
-<!-- Add more badges as needed -->
 
 ---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=Htet-Phyo-Linn&style=flat-square&color=38bdf8" alt="Profile Views" />
+  
+  <br><br>
+  <sub>✨ Designed with ❤️ by Htet Phyo Linn ✨</sub>
+</div>
 
